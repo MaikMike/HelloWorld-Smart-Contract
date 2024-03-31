@@ -1,18 +1,18 @@
-#h1 Commands
+# Commands
 
-#h2 Setup Project
+# Setup Project
 
 ```bash
 npm install
 ```
 
-#h2 Compile contract
+# Compile contract
 
 ```bash
 npm run compile
 ```
 
-#h2 Tests
+# Tests
 
 ```bash
 npm run test
